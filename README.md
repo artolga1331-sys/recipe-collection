@@ -18,3 +18,9 @@ A curated collection of my favorite recipes.
 1. [Pasta Carbonara](recipes/carbonara.md) — Italian classic
 2. [Chocolate Chip Cookies](recipes/chocolate-cookies.md) — Crowd favorite
 3. [Lemon Salmon](recipes/lemon-salmon.md) — Quick & healthy
+
+## Cooking Tips 💡
+- Always read the recipe before starting
+- Prep ingredients beforehand (mise en place)
+- Taste as you go
+- Don't be afraid to experiment
