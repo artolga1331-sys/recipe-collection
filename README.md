@@ -11,8 +11,9 @@ A curated collection of my favorite recipes.
 
 ## Stats
 📚 Total recipes: 15
-⭐ Most popular: Caesar Salad
-🆕 Latest: Apple Pie
+⭐ Average rating: 4.8
+📅 Last updated: April 1, 2026
+🎯 Goal: 50 recipes by end of month
 
 ## Featured Recipes 🌟
 1. [Pasta Carbonara](recipes/carbonara.md) — Italian classic
