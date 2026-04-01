@@ -1,33 +1,31 @@
 # Recipe Collection 🍳
 
-A curated collection of my favorite recipes.
+A growing collection of recipes I've tried and loved.
 
-## Categories
-- [Breakfast](categories/breakfast.md)
-- [Soups](categories/soups.md)
-- [Main Dishes](categories/main-dishes.md)
-- [Salads](categories/salads.md)
-- [Desserts](categories/desserts.md)
+## 📁 Structure
+recipe-collection/
+├── recipes/ # All recipes
+├── categories/ # Organized by meal type
+├── reviews/ # My personal reviews
+├── shopping-list.md
+├── kitchen-tools.md
+└── weekly-meal-plan.md
 
-## Stats
-📚 Total recipes: 15
-⭐ Average rating: 4.8
-📅 Last updated: April 1, 2026
-🎯 Goal: 50 recipes by end of month
+text
 
-## Featured Recipes 🌟
-1. [Pasta Carbonara](recipes/carbonara.md) — Italian classic
-2. [Chocolate Chip Cookies](recipes/chocolate-cookies.md) — Crowd favorite
-3. [Lemon Salmon](recipes/lemon-salmon.md) — Quick & healthy
+## 📊 Progress
+- **Total recipes:** 15
+- **Categories:** 5
+- **Reviews:** 5
+- **Last update:** April 1, 2026
 
-## Cooking Tips 💡
-- Always read the recipe before starting
-- Prep ingredients beforehand (mise en place)
-- Taste as you go
-- Don't be afraid to experiment
+## 🔗 Quick Links
+- [All Recipes](recipes/)
+- [Categories](categories/)
+- [Shopping List](shopping-list.md)
+- [Weekly Plan](weekly-meal-plan.md)
 
-## Coming Soon 🔜
-- Mexican recipes
-- Vegetarian options
-- Quick 15-minute meals
-- Holiday specials
+## 🎯 Next Steps
+- Add 10 more recipes
+- Create nutrition info
+- Add vegetarian section
