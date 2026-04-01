@@ -24,3 +24,9 @@ A curated collection of my favorite recipes.
 - Prep ingredients beforehand (mise en place)
 - Taste as you go
 - Don't be afraid to experiment
+
+## Coming Soon 🔜
+- Mexican recipes
+- Vegetarian options
+- Quick 15-minute meals
+- Holiday specials
