@@ -15,7 +15,7 @@ Breakfast: Smoothie Bowl
 Lunch: Caesar Salad
 Dinner: Pasta Carbonara
 
-## Thursda
+## Thursday
 Breakfast: Omelette
 Lunch: Tomato Soup
 Dinner: Hamburger
