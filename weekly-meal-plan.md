@@ -1,6 +1,6 @@
 # Weekly Meal Plan
 
-## Monday
+## Mo
 Breakfast: Omelette
 Lunch: Greek Salad
 Dinner: Chicken Soup
