@@ -1,7 +1,7 @@
 # Avocado Toast
 
 ## Ingredients
-- 3 slices sourdough bread
+- 2 slices sourdough bread
 - 1 ripe avocado
 - 1 tbsp lemon juice
 - Red pepper flakes
