@@ -1,7 +1,7 @@
 # Fruit Yogurt Parfait
 
 ## Ingredients
-- 1 cup Greek yogurt
+- 2 cup Greek yogurt
 - 1/2 cup granola
 - 1 cup mixed berries
 - 1 tbsp honey
