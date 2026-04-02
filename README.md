@@ -27,7 +27,7 @@ A growing collection of recipes I've tried and loved.
 | Medium | 9 |
 | Hard | 0 |
 
-## 🤔 What to Cook Today?
+## 🤔 What to Cook Today
 
 - **Feeling lazy?** → [Scrambled Eggs](recipes/scrambled-eggs.md)
 - **Want something healthy?** → [Greek Salad](recipes/greek-salad.md)
