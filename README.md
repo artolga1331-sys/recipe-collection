@@ -33,3 +33,13 @@ A growing collection of recipes I've tried and loved.
 - **Want something healthy?** → [Greek Salad](recipes/greek-salad.md)
 - **Have guests?** → [Pasta Carbonara](recipes/carbonara.md)
 - **Sweet tooth?** → [Banana Bread](recipes/banana-bread.md)
+
+## 🍂 Seasonal Recipes
+
+**Spring/Summer**
+- [Lemonade](recipes/lemonade.md)
+- [Greek Salad](recipes/greek-salad.md)
+
+**Fall/Winter**
+- [Pumpkin Soup](recipes/pumpkin-soup.md)
+- [Apple Pie](recipes/apple-pie.md)
