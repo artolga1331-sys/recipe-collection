@@ -29,3 +29,21 @@ text
 - Add 10 more recipes
 - Create nutrition info
 - Add vegetarian section
+
+# Recipe Collection 🍳
+
+A growing collection of recipes I've tried and loved.
+
+## 📊 Progress
+- **Total recipes:** 20
+- **Categories:** 5
+- **Reviews:** 5
+- **Last update:** April 2, 2026
+
+## 🔗 Quick Links
+- [All Recipes](recipes/)
+- [Categories](categories/)
+
+## 🎯 Next Steps
+- Add breakfast recipes
+- Add vegetarian section
