@@ -47,3 +47,10 @@ A growing collection of recipes I've tried and loved.
 ## 🎯 Next Steps
 - Add breakfast recipes
 - Add vegetarian section
+
+## 🆕 New Recipes Added Today
+- [Chickpea Curry](recipes/chickpea-curry.md)
+- [Garlic Broccoli](recipes/garlic-broccoli.md)
+- [Banana Bread](recipes/banana-bread.md)
+- [Falafel](recipes/falafel.md)
+- [Lemonade](recipes/lemonade.md)
