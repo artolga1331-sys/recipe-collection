@@ -54,3 +54,12 @@ A growing collection of recipes I've tried and loved.
 - [Banana Bread](recipes/banana-bread.md)
 - [Falafel](recipes/falafel.md)
 - [Lemonade](recipes/lemonade.md)
+
+## 📈 Difficulty Breakdown
+
+| Difficulty | Recipes |
+|------------|---------|
+| Very Easy | 1 |
+| Easy | 4 |
+| Medium | 2 |
+| Hard | 0 |
