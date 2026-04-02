@@ -7,3 +7,13 @@ A growing collection of recipes I've tried and loved.
 - **Categories:** 15
 - **Reviews:** 10
 - **Last update:** April 2, 2026
+
+## 🌍 Cuisines
+
+| Cuisine | Recipes |
+|---------|---------|
+| Italian | Carbonara |
+| American | Burgers, Cookies |
+| Asian | Fried Rice, Curry |
+| Middle Eastern | Falafel |
+| Greek | Greek Salad |
