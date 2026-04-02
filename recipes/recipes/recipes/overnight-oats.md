@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 2 cup rolled oats
-- 1 cup milk
+- 2 cup milk
 - 2 tbsp chia seeds
 - 1 tbsp honey
 - 1/2 tsp vanilla
