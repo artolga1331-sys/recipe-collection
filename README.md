@@ -26,3 +26,10 @@ A growing collection of recipes I've tried and loved.
 | Easy | 15 |
 | Medium | 9 |
 | Hard | 0 |
+
+## 🤔 What to Cook Today?
+
+- **Feeling lazy?** → [Scrambled Eggs](recipes/scrambled-eggs.md)
+- **Want something healthy?** → [Greek Salad](recipes/greek-salad.md)
+- **Have guests?** → [Pasta Carbonara](recipes/carbonara.md)
+- **Sweet tooth?** → [Banana Bread](recipes/banana-bread.md)
