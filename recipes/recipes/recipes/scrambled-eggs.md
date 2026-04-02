@@ -3,7 +3,7 @@
 ## Ingredients
 - 5 eggs
 - 3 tbsp butter
-- 2 tbsp milk
+- 3 tbsp milk
 - Salt, pepper
 - Chives (optional)
 
