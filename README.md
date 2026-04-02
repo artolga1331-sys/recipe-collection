@@ -17,3 +17,12 @@ A growing collection of recipes I've tried and loved.
 | Asian | Fried Rice, Curry |
 | Middle Eastern | Falafel |
 | Greek | Greek Salad |
+
+## 📈 By Difficulty
+
+| Difficulty | Count |
+|------------|-------|
+| Very Easy | 6 |
+| Easy | 15 |
+| Medium | 9 |
+| Hard | 0 |
