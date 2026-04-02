@@ -1,7 +1,7 @@
 # Quesadilla
 
 ## Ingredients
-- 2 large tortillas
+- 1 large tortillas
 - 1 cup shredded cheese
 - 1/2 cup cooked chicken
 - 1/4 cup salsa
