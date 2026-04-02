@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 1 cup spinach
-- 2 banana
+- 1 banana
 - 1/2 cup pineapple
 - 1/2 cup mango
 - 1 cup coconut water
