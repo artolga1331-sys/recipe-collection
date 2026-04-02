@@ -1,8 +1,11 @@
 # Breakfast Recipes
 
-Recipes in this category:
-- [Omelette](../recipes/omelette.md)
+- [Overnight Oats](../recipes/overnight-oats.md)
+- [Scrambled Eggs](../recipes/scrambled-eggs.md)
+- [Yogurt Parfait](../recipes/fruit-yogurt-parfait.md)
+- [Avocado Toast](../recipes/avocado-toast.md)
+- [Green Smoothie](../recipes/green-smoothie.md)
 - [Pancakes](../recipes/pancakes.md)
-- [Smoothie Bowl](../recipes/smoothie-bowl.md)
+- [Omelette](../recipes/omelette.md)
 
-Perfect for starting your day!
+Start your day right!
