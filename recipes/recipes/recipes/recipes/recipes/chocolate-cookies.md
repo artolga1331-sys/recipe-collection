@@ -1,7 +1,7 @@
 # Chocolate Chip Cookies
 
 ## Ingredients
-- 225g butter
+- 230g butter
 - 200g brown sugar
 - 100g white sugar
 - 2 eggs
