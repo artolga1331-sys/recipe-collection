@@ -6,4 +6,4 @@
 - [Scrambled Eggs](../recipes/scrambled-eggs.md)
 - [Lemonade](../recipes/lemonade.md)
 
-Recipes that kids will love!
+Recipes that kids will love! 
