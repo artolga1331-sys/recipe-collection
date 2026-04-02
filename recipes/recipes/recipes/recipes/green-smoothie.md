@@ -5,7 +5,7 @@
 - 2 banana
 - 1/2 cup pineapple
 - 1/2 cup mango
-- 2 cup coconut water
+- 1 cup coconut water
 
 ## Instructions
 1. Blend spinach with coconut water
