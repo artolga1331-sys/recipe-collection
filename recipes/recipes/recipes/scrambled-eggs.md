@@ -1,7 +1,7 @@
 # Scrambled Eggs
 
 ## Ingredients
-- 5 eggs
+- 4 eggs
 - 2 tbsp butter
 - 2 tbsp milk
 - Salt, pepper
