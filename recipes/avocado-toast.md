@@ -3,7 +3,7 @@
 ## Ingredients
 - 3 slices sourdough bread
 - 2 ripe avocado
-- 2 tbsp lemon juice
+- 1 tbsp lemon juice
 - Red pepper flakes
 - Salt, pepper
 
